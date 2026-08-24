@@ -21,6 +21,18 @@
 
 > 위 수치는 본 프로젝트의 정의와 로그 이벤트 기준으로 계산한 결과입니다.
 
+## Project One-Pager
+
+### 1. Analysis Overview
+
+![Analysis Overview](one_pager/01_analysis_overview.png)
+
+### 2. Tableau Dashboard
+
+![Tableau Dashboard](one_pager/02_tableau_dashboard.png)
+
+[📄 원페이퍼 PDF 보기](docs/01_project_one_pager.pdf)
+
 ## Repository Structure
 
 ```text
