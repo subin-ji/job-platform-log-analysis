@@ -31,7 +31,10 @@
 
 ![Tableau Dashboard](one_pager/02_tableau_dashboard.png)
 
-[📄 원페이저 PDF 보기](docs/01_project_one_pager.pdf)
+## Documents
+
+- [Project One-Pager](docs/01_project_one_pager.pdf)
+- [Web Log Analysis Report](docs/02_web_log_analysis_report.pdf)
 
 ## Repository Structure
 
