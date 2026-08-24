@@ -1,0 +1,12 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# local data / extracts
+data/*
+!data/README.md
+*.hyper
+*.tfl

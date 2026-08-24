@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+koreanize-matplotlib
+SQLAlchemy
+PyMySQL
+python-dotenv
