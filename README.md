@@ -25,16 +25,16 @@
 
 ### 1. Analysis Overview
 
-![Analysis Overview](one_pager/01_analysis_overview.png)
+![Analysis Overview](one_pager/analysis_overview.png)
 
 ### 2. Tableau Dashboard
 
-![Tableau Dashboard](one_pager/02_tableau_dashboard.png)
+![Tableau Dashboard](one_pager/tableau_dashboard.png)
 
 ## Documents
 
-- [Project One-Pager](docs/01_project_one_pager.pdf)
-- [Web Log Analysis Report](docs/02_web_log_analysis_report.pdf)
+- [Project One-Pager](docs/project_one_pager.pdf)
+- [Web Log Analysis Report](docs/web_log_analysis_report.pdf)
 
 ## Repository Structure
 
